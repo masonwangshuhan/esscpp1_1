@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cedar/CLionProjects/esscpp1.1/ex_1.6.cpp
+iostream
+-
+vector
+-
+
+/home/cedar/CLionProjects/esscpp1.1/ex_1.7.cpp
+iostream
+-
+fstream
+-
+vector
+-
+string
+-
+algorithm
+-
+
+/home/cedar/CLionProjects/esscpp1.1/test_1.2.cpp
+iostream
+-
+string
+-
+vector
+-
+cstdlib
+-
+fstream
+-
+
+/home/cedar/CLionProjects/esscpp1.1/test_1.6.cpp
+iostream
+-
+vector
+-
+
